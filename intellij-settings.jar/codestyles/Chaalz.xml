@@ -1,0 +1,15 @@
+<code_scheme name="Chaalz">
+  <option name="HTML_KEEP_BLANK_LINES" value="0" />
+  <option name="HTML_ALIGN_TEXT" value="true" />
+  <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,img,label" />
+  <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
+  <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,input,kbd,q,s,samp,span,strike,strong,sub,sup,tt,u,var,i" />
+  <option name="HTML_ENFORCE_QUOTES" value="true" />
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="140" />
+    <option name="WRAP_ON_TYPING" value="1" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="ENUM_CONSTANTS_WRAP" value="2" />
+  </codeStyleSettings>
+</code_scheme>
