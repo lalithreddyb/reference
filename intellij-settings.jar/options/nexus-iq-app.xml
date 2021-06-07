@@ -1,0 +1,6 @@
+<application>
+  <component name="NexusIQ.ApplicationSettings">
+    <option name="iqServerUrl" value="http://plv-o7-a009:8070" />
+    <option name="username" value="syuclg" />
+  </component>
+</application>
