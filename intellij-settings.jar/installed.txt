@@ -1,0 +1,3 @@
+com.sonatype.nexus-iq
+org.mayevskiy.intellij.sonar
+org.sonarlint.idea
