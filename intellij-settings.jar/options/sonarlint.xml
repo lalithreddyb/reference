@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://plsysadm-db03:9000/" />
+          <option name="name" value="http://plsysadm-db03:9000" />
+          <option name="login" value="syuclg" />
+          <password>dfc4dfc5dfecdfdfdfcedf9edfdfdf8b</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
